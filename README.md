@@ -7,7 +7,7 @@
 ```php
   
 const brendooliveira = {
-  "nome" => "WILLIAM DOS SANTOS",
+  "nome" => "BRENDO OLIVEIRA",
   "Area" => "DESENVOLVIMENTO WEB",
   "Linguagens" => ["PHP", "JavaScript", "Jquery", "CSS", "HTML"],
 };
