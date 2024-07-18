@@ -6,11 +6,11 @@
 
 ```php
   
-const brendooliveira = {
+const brendooliveira = [
   "nome" => "BRENDO OLIVEIRA",
   "Area" => "DESENVOLVIMENTO WEB",
   "Linguagens" => ["PHP", "JavaScript", "Jquery", "CSS", "HTML"],
-};
+];
   
 ```
 
